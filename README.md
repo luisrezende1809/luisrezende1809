@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é  luis miguel de paula rezende 
 
-<!--
-**luisrezende1809/luisrezende1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+Você pode entrar em contato comigo 📫
+luismiguelrezende393@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@luisrz.310
+
+![](https://2.bp.blogspot.com/-11wp9ob5sy8/T510ZiammFI/AAAAAAAAAMI/0Dg-Ud2-pBU/s1600/gif2.gif)
